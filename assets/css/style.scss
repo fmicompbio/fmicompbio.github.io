@@ -1,4 +1,73 @@
 ---
 ---
 
+// add color definitions before processing the theme
+// to overwrite defaults from _sass/variables.scss
+
+// Headers
+//$header-heading-color: #fff;
+$header-bg-color: #80CDC1;
+$header-bg-color-secondary: #015147;
+
+// Text
+$section-headings-color: #01665E;
+//$body-text-color: #606c71 !default;
+//$body-link-color: #1e6bb8 !default;
+//$blockquote-text-color: #819198 !default;
+
 @import "{{ site.theme }}";
+
+// custom css
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+
+  @include large {
+    padding: 1rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.5rem 0.5rem;
+  }
+
+  @include small {
+    padding: 0.25rem 0rem;
+  }
+}
+
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+
+  @include large {
+    font-size: 2.75rem;
+  }
+
+  @include medium {
+    font-size: 1.75rem;
+  }
+
+  @include small {
+    font-size: 1.25rem;
+  }
+}
+
+.project-tagline {
+  margin-bottom: 1rem;
+  font-weight: normal;
+  opacity: 0.7;
+
+  @include large {
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    font-size: 1rem;
+  }
+
+  @include small {
+    font-size: 0.75rem;
+  }
+}
