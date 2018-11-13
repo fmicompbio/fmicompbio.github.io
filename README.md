@@ -37,14 +37,17 @@
   [GitHub page](https://github.com/fmicompbio/swissknife)  
 
 # Supplementary information  
-- **GLD-1 Binding Motif (GBM) finder**  
-  [supplementary R code](projects/GBM_finder/gbmFinder.html)  
-  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
   [supplementary data and R code](projects/cosie/cosie.html) |
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19528075) |
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760813/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760813/pdf/gkp508.pdf)  
+
+- **GLD-1 Binding Motif (GBM) finder**  
+  [supplementary R code](projects/GBM_finder/gbmFinder.html)  
+
+- **MethylSeekR**  
+  [supplementary data](projects/MethylSeekR/MethylSeekR.html)  
 
 - **EISA**: Exon-Intron Split Analysis  
   [supplementary data and R code](projects/EISA/EISA.html) |
