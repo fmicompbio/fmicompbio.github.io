@@ -30,14 +30,21 @@
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/pdf/gkt599.pdf)  
   [GitHub page](https://github.com/fmicompbio/Rbowtie)  
 
+- **griph**: Graph Inference of Population Heterogeneity  
+  [GitHub page](https://github.com/fmicompbio/griph)  
+
+- **swissknife**: Handy code shared in the FMI CompBio group  
+  [GitHub page](https://github.com/fmicompbio/swissknife)  
+
+# Supplementary information  
+- **COSIE**: COrrected Splicing Indices for Exon arrays  
+  [supplementary data and R code](projects/cosie/cosie.html) |
+  [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19528075) |
+  [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760813/) |
+  [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760813/pdf/gkp508.pdf)  
+
 - **EISA**: Exon-Intron Split Analysis  
   [supplementary data and R code](projects/EISA/EISA.html) |
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26098447) |
   [HTML](http://www.nature.com/articles/nbt.3269) |
   [PDF](http://www.nature.com/articles/nbt.3269.pdf)  
-
-- **griph**: Graph Inference of Population Heterogeneity  
-    [GitHub page](https://github.com/fmicompbio/griph)  
-
-- **swissknife**: Handy code shared in the FMI CompBio group  
-  [GitHub page](https://github.com/fmicompbio/swissknife)  
