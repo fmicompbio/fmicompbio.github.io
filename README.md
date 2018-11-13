@@ -1,4 +1,9 @@
-# About us:
+---
+layout: default
+title: FMI CompBio's code and supplementary data
+---
+
+# About us: 
 
 - [Our homepage at FMI &nbsp; &nbsp; <img src="assets/images/logo-FMI-grey.gif" alt="FMI logo" align="middle" height="46" width="107">](http://www.fmi.ch/research/platforms/platform.html?plt=115)  
 
