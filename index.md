@@ -9,6 +9,11 @@ title: FMI CompBio's code and supplementary data
 
 - [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/stadler-michael/michael-stadler-sub)  
 
+# Teaching material
+- **SIB Single-cell RNA-Seq Analysis**  
+  [Course homepage](https://www.sib.swiss/training/course/2018-11-single-cell) |
+  [Course handout](https://fmicompbio.github.io/SIB_scRNA-seq_Tutorial_2018/)  
+  
 # Public software and data  
 - **QuasR**: Quantification and Annotation of Short reads in R  
   [download page on Bioconductor](https://bioconductor.org/packages/QuasR/) |
@@ -16,7 +21,6 @@ title: FMI CompBio's code and supplementary data
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382904/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382904/pdf/btu781.pdf)  
   [GitHub page](https://github.com/fmicompbio/QuasR)  
-
 
 - **Rbowtie**: R wrapper around the popular bowtie short read aligner  
   [download page on Bioconductor](https://bioconductor.org/packages/Rbowtie/) |
