@@ -30,6 +30,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub page](https://github.com/fmicompbio/Rbowtie)  
 
 - **Rhisat2**: R wrapper around the hisat2 aligner  
+  [download page on Bioconductor](https://bioconductor.org/packages/Rhisat2/) |
   [GitHub page](https://github.com/fmicompbio/Rhisat2)  
 
 - **MethylSeekR**: Identification of active regulatory regions from DNA methylation data  
