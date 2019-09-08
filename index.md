@@ -52,6 +52,9 @@ title: FMI CompBio's code and supplementary data
 
 - **ExploreModelMatrix**: Interactive exploration of design matrices in R	
   [GitHub page](https://github.com/csoneson/ExploreModelMatrix)
+  
+- **galaxy2shiny2galaxy**: Combining [Galaxy](https://galaxyproject.org/) with an external Shiny server	
+  [GitHub page](https://github.com/hrhotz/galaxy2shiny2galaxy)  
 
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
