@@ -53,6 +53,9 @@ title: FMI CompBio's code and supplementary data
 - **ExploreModelMatrix**: Interactive exploration of design matrices in R	
   [GitHub page](https://github.com/csoneson/ExploreModelMatrix)
 
+- **eisaR**: Exon-Intron Split Analysis and methods for extracting transcript coordinates and sequences
+  [GitHub page](https://github.com/fmicompbio/eisaR)  
+
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
   [supplementary data and R code](projects/cosie/cosie.html) |
@@ -66,7 +69,7 @@ title: FMI CompBio's code and supplementary data
 - **MethylSeekR**  
   [supplementary data](projects/MethylSeekR/MethylSeekR.html)  
 
-- **EISA**: Exon-Intron Split Analysis  
+- **EISA**: Exon-Intron Split Analysis (see also `eisaR` package above)  
   [supplementary data and R code](projects/EISA/EISA.html) |
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26098447) |
   [HTML](http://www.nature.com/articles/nbt.3269) |
