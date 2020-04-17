@@ -10,9 +10,13 @@ title: FMI CompBio's code and supplementary data
 - [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/stadler-michael/michael-stadler-sub)  
 
 # Teaching material
-- **SIB Single-cell RNA-Seq Analysis**  
+- **SIB Single-cell RNA-Seq Analysis - 2018 **  
   [Course homepage](https://www.sib.swiss/training/course/2018-11-single-cell) |
   [Course handout](https://fmicompbio.github.io/SIB_scRNA-seq_Tutorial_2018/)  
+  
+- **SIB Advanced topics in single-cell transcriptomics - 2020 **  
+  [Course homepage](https://www.sib.swiss/training/course/2020-05-adv-scrna) |
+  [Course repository](https://github.com/fmicompbio/adv_scrnaseq_2020)  
   
 # Public software and data  
 - **QuasR**: Quantification and Annotation of Short reads in R  
@@ -38,7 +42,6 @@ title: FMI CompBio's code and supplementary data
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23828043) |
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/pdf/gkt599.pdf)  
-  [GitHub page](https://github.com/fmicompbio/Rbowtie)  
 
 - **griph**: Graph Inference of Population Heterogeneity  
   [GitHub page](https://github.com/fmicompbio/griph)  
@@ -54,6 +57,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub page](https://github.com/csoneson/ExploreModelMatrix)
 
 - **eisaR**: Exon-Intron Split Analysis and methods for extracting transcript coordinates and sequences
+  [Bioconductor landing page](https://bioconductor.org/packages/eisaR/) |
   [GitHub page](https://github.com/fmicompbio/eisaR)  
 
 # Supplementary information  
@@ -74,3 +78,6 @@ title: FMI CompBio's code and supplementary data
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26098447) |
   [HTML](http://www.nature.com/articles/nbt.3269) |
   [PDF](http://www.nature.com/articles/nbt.3269.pdf)  
+  
+# Software build status
+... is available [here](build.html).
