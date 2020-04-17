@@ -10,15 +10,15 @@ title: FMI CompBio's code and supplementary data
 - [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/stadler-michael/michael-stadler-sub)  
 
 # Teaching material
-- **SIB Single-cell RNA-Seq Analysis - 2018 **  
+- **SIB Single-cell RNA-Seq Analysis - 2018**  
   [Course homepage](https://www.sib.swiss/training/course/2018-11-single-cell) |
   [Course handout](https://fmicompbio.github.io/SIB_scRNA-seq_Tutorial_2018/)  
 
-- **Joint SIB / SciLifeLab Autumn School Single Cell Analysis - 2019 **
+- **Joint SIB / SciLifeLab Autumn School Single Cell Analysis - 2019**  
   [Course homepage](https://www.sib.swiss/component/courses/525?view=courses_item) |
   [Course repository](https://github.com/NBISweden/single-cell_sib_scilifelab)
   
-- **SIB Advanced topics in single-cell transcriptomics - 2020 **  
+- **SIB Advanced topics in single-cell transcriptomics - 2020**  
   [Course homepage](https://www.sib.swiss/training/course/2020-05-adv-scrna) |
   [Course repository](https://github.com/fmicompbio/adv_scrnaseq_2020)  
   
