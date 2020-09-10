@@ -57,7 +57,10 @@ title: FMI CompBio's code and supplementary data
   [Bioconductor landing page](https://bioconductor.org/packages/alevinQC/) | 
   [GitHub page](https://github.com/csoneson/alevinQC)
 
-- **ExploreModelMatrix**: Interactive exploration of design matrices in R	
+- **ExploreModelMatrix**: Interactive exploration of design matrices in R. 
+  [Bioconductor landing page](https://bioconductor.org/packages/ExploreModelMatrix/) | 
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/32704355/) |
+  [free full-text](https://f1000research.com/articles/9-512/v1) |
   [GitHub page](https://github.com/csoneson/ExploreModelMatrix)
 
 - **eisaR**: Exon-Intron Split Analysis and methods for extracting transcript coordinates and sequences
