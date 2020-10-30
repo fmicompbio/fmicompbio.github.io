@@ -23,6 +23,13 @@ title: FMI CompBio's code and supplementary data
   [Course repository](https://github.com/fmicompbio/adv_scrnaseq_2020)  
   
 # Public software and data  
+<center>
+<a href="http://bioconductor.org/packages/alevinQC/"><img src="assets/images/alevinQC.png" style="width:3cm" /></a>
+<a href="http://bioconductor.org/packages/eisaR/"><img src="assets/images/eisaR.png" style="width:3cm" /></a>
+<a href="http://bioconductor.org/packages/ExploreModelMatrix/"><img src="assets/images/ExploreModelMatrix.png" style="width:3cm" /></a>
+<a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
+</center>
+
 - **QuasR**: Quantification and Annotation of Short reads in R  
   [Bioconductor landing page](https://bioconductor.org/packages/QuasR/) |
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25417205) |
