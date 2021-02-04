@@ -53,6 +53,7 @@ title: FMI CompBio's code and supplementary data
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23828043) |
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/pdf/gkt599.pdf)  
+  [GitHub page](https://github.com/LukasBurger/MethylSeekR)  
 
 - **griph**: Graph Inference of Population Heterogeneity  
   [GitHub page](https://github.com/fmicompbio/griph)  
