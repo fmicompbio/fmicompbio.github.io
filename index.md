@@ -55,6 +55,9 @@ title: FMI CompBio's code and supplementary data
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/pdf/gkt599.pdf)  
   [GitHub page](https://github.com/LukasBurger/MethylSeekR)  
 
+- **monaLisa**: Motif Enrichment Analysis and Visualization  
+  [GitHub page](https://github.com/fmicompbio/monaLisa)  
+
 - **griph**: Graph Inference of Population Heterogeneity  
   [GitHub page](https://github.com/fmicompbio/griph)  
 
