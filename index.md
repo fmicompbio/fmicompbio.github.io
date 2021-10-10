@@ -21,12 +21,17 @@ title: FMI CompBio's code and supplementary data
 - **SIB Advanced topics in single-cell transcriptomics - 2020**  
   [Course homepage](https://www.sib.swiss/training/course/2020-05-adv-scrna) |
   [Course repository](https://github.com/fmicompbio/adv_scrnaseq_2020)  
+
+- **Joint SIB / SciLifeLab Advanced topics in single-cell omics - 2021**  
+  [Course homepage](https://nbisweden.github.io/single-cell_sib_scilifelab_2021) |
+  [Course repository](https://github.com/NBISweden/single-cell_sib_scilifelab_2021)  
   
 # Public software and data  
 <center>
 <a href="http://bioconductor.org/packages/alevinQC/"><img src="assets/images/alevinQC.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/eisaR/"><img src="assets/images/eisaR.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/ExploreModelMatrix/"><img src="assets/images/ExploreModelMatrix.png" style="width:3cm" /></a>
+<a href="http://bioconductor.org/packages/monaLisa/"><img src="assets/images/monaLisa.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
 </center>
 
@@ -56,7 +61,8 @@ title: FMI CompBio's code and supplementary data
   [GitHub page](https://github.com/LukasBurger/MethylSeekR)  
 
 - **monaLisa**: Motif Enrichment Analysis and Visualization  
-  [GitHub page](https://github.com/fmicompbio/monaLisa)  
+  [Bioconductor landing page](https://bioconductor.org/packages/monaLisa/) |
+  [GitHub page](https://github.com/fmicompbio/monaLisa)
 
 - **griph**: Graph Inference of Population Heterogeneity  
   [GitHub page](https://github.com/fmicompbio/griph)  
@@ -68,7 +74,7 @@ title: FMI CompBio's code and supplementary data
   [Bioconductor landing page](https://bioconductor.org/packages/alevinQC/) | 
   [GitHub page](https://github.com/csoneson/alevinQC)
 
-- **ExploreModelMatrix**: Interactive exploration of design matrices in R. 
+- **ExploreModelMatrix**: Interactive exploration of design matrices in R.  
   [Bioconductor landing page](https://bioconductor.org/packages/ExploreModelMatrix/) | 
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/32704355/) |
   [free full-text](https://f1000research.com/articles/9-512/v1) |
