@@ -70,7 +70,7 @@ title: FMI CompBio's code and supplementary data
 - **swissknife**: Handy code shared in the FMI CompBio group  
   [GitHub page](https://github.com/fmicompbio/swissknife)  
 
-- **alevinQC**: Generation of QC and summary reports for [Alevin](https://salmon.readthedocs.io/en/latest/alevin.html) output	
+- **alevinQC**: Generation of QC and summary reports for [Alevin](https://salmon.readthedocs.io/en/latest/alevin.html) output  	
   [Bioconductor landing page](https://bioconductor.org/packages/alevinQC/) | 
   [GitHub page](https://github.com/csoneson/alevinQC)
 
@@ -80,9 +80,13 @@ title: FMI CompBio's code and supplementary data
   [free full-text](https://f1000research.com/articles/9-512/v1) |
   [GitHub page](https://github.com/csoneson/ExploreModelMatrix)
 
-- **eisaR**: Exon-Intron Split Analysis and methods for extracting transcript coordinates and sequences
+- **eisaR**: Exon-Intron Split Analysis and methods for extracting transcript coordinates and sequences  
   [Bioconductor landing page](https://bioconductor.org/packages/eisaR/) |
   [GitHub page](https://github.com/fmicompbio/eisaR)  
+
+- **TabulaMurisSenisData**: Access to bulk and single-cell RNA-seq data from the [Tabula Muris Senis](https://tabula-muris-senis.ds.czbiohub.org/) project in SingleCellExperiment format  
+  [Bioconductor landing page](https://bioconductor.org/packages/TabulaMurisSenisData/) |
+  [GitHub page](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
