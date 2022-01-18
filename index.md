@@ -88,6 +88,10 @@ title: FMI CompBio's code and supplementary data
   [Bioconductor landing page](https://bioconductor.org/packages/TabulaMurisSenisData/) |
   [GitHub page](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
+- **geosketchR**: An R interface to the [geosketch](https://github.com/brianhie/geosketch) python package  
+  [GitHub page](https://github.com/csoneson/geosketchR)  
+
+
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
   [supplementary data and R code](projects/cosie/cosie.html) |
