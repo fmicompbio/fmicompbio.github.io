@@ -88,8 +88,8 @@ title: FMI CompBio's code and supplementary data
   [Bioconductor landing page](https://bioconductor.org/packages/TabulaMurisSenisData/) |
   [GitHub page](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
-- **geosketchR**: An R interface to the [geosketch](https://github.com/brianhie/geosketch) python package  
-  [GitHub page](https://github.com/csoneson/geosketchR)  
+- **sketchR**: An R interface for python subsampling/sketching algorithms  
+  [GitHub page](https://github.com/csoneson/sketchR)  
 
 
 # Supplementary information  
