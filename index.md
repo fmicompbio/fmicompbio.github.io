@@ -35,10 +35,13 @@ title: FMI CompBio's code and supplementary data
 # Public software and data  
 <center>
 <a href="http://bioconductor.org/packages/alevinQC/"><img src="assets/images/alevinQC.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/einprot"><img src="assets/images/einprot.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/eisaR/"><img src="assets/images/eisaR.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/ExploreModelMatrix/"><img src="assets/images/ExploreModelMatrix.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/monaLisa/"><img src="assets/images/monaLisa.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/mutscan"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
+<a href="https://github.com/csoneson/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
 </center>
 
 - **QuasR**: Quantification and Annotation of Short reads in R  
@@ -46,57 +49,63 @@ title: FMI CompBio's code and supplementary data
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25417205) |
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382904/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382904/pdf/btu781.pdf)  
-  [GitHub page](https://github.com/fmicompbio/QuasR)  
+  [GitHub repo](https://github.com/fmicompbio/QuasR)  
 
 - **Rbowtie**: R wrapper around the popular bowtie short read aligner  
   [Bioconductor landing page](https://bioconductor.org/packages/Rbowtie/) |
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25417205) |
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382904/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382904/pdf/btu781.pdf)  
-  [GitHub page](https://github.com/fmicompbio/Rbowtie)  
+  [GitHub repo](https://github.com/fmicompbio/Rbowtie)  
 
 - **Rhisat2**: R wrapper around the hisat2 aligner  
   [Bioconductor landing page](https://bioconductor.org/packages/Rhisat2/) |
-  [GitHub page](https://github.com/fmicompbio/Rhisat2)  
+  [GitHub repo](https://github.com/fmicompbio/Rhisat2)  
 
 - **MethylSeekR**: Identification of active regulatory regions from DNA methylation data  
   [Bioconductor landing page](https://bioconductor.org/packages/MethylSeekR/) |
   [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23828043) |
   [free HTML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/) |
   [free PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763559/pdf/gkt599.pdf)  
-  [GitHub page](https://github.com/LukasBurger/MethylSeekR)  
+  [GitHub repo](https://github.com/LukasBurger/MethylSeekR)  
 
 - **monaLisa**: Motif Enrichment Analysis and Visualization  
   [Bioconductor landing page](https://bioconductor.org/packages/monaLisa/) |
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/35199152) |
-  [GitHub page](https://github.com/fmicompbio/monaLisa)
+  [GitHub repo](https://github.com/fmicompbio/monaLisa)
 
 - **griph**: Graph Inference of Population Heterogeneity  
-  [GitHub page](https://github.com/fmicompbio/griph)  
+  [GitHub repo](https://github.com/fmicompbio/griph)  
 
 - **swissknife**: Handy code shared in the FMI CompBio group  
-  [GitHub page](https://github.com/fmicompbio/swissknife)  
+  [GitHub repo](https://github.com/fmicompbio/swissknife)  
 
 - **alevinQC**: Generation of QC and summary reports for [alevin](https://salmon.readthedocs.io/en/latest/alevin.html) and [alevin-fry](https://alevin-fry.readthedocs.io/en/latest/) output	
   [Bioconductor landing page](https://bioconductor.org/packages/alevinQC/) | 
-  [GitHub page](https://github.com/csoneson/alevinQC)
+  [GitHub repo](https://github.com/csoneson/alevinQC)
 
 - **ExploreModelMatrix**: Interactive exploration of design matrices in R.  
   [Bioconductor landing page](https://bioconductor.org/packages/ExploreModelMatrix/) | 
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/32704355/) |
   [free full-text](https://f1000research.com/articles/9-512/v1) |
-  [GitHub page](https://github.com/csoneson/ExploreModelMatrix)
+  [GitHub repo](https://github.com/csoneson/ExploreModelMatrix)
 
 - **eisaR**: Exon-Intron Split Analysis and methods for extracting transcript coordinates and sequences  
   [Bioconductor landing page](https://bioconductor.org/packages/eisaR/) |
-  [GitHub page](https://github.com/fmicompbio/eisaR)  
+  [GitHub repo](https://github.com/fmicompbio/eisaR)  
 
 - **TabulaMurisSenisData**: Access to bulk and single-cell RNA-seq data from the [Tabula Muris Senis](https://tabula-muris-senis.ds.czbiohub.org/) project in SingleCellExperiment format  
   [Bioconductor landing page](https://bioconductor.org/packages/TabulaMurisSenisData/) |
-  [GitHub page](https://github.com/fmicompbio/TabulaMurisSenisData)  
+  [GitHub repo](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
 - **sketchR**: An R interface for python subsampling/sketching algorithms  
-  [GitHub page](https://github.com/csoneson/sketchR)  
+  [GitHub repo](https://github.com/csoneson/sketchR)  
+
+- **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
+  [GitHub repo](https://github.com/fmicompbio/mutscan)  
+
+- **einprot**: A collection of workflows for statistical analysis of quantitative proteomics data  
+  [GitHub repo](https://github.com/fmicompbio/einprot)  
 
 
 # Supplementary information  
