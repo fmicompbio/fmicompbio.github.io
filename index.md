@@ -40,6 +40,7 @@ title: FMI CompBio's code and supplementary data
 <a href="http://bioconductor.org/packages/ExploreModelMatrix/"><img src="assets/images/ExploreModelMatrix.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/monaLisa/"><img src="assets/images/monaLisa.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/mutscan"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
 <a href="https://github.com/csoneson/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
 </center>
@@ -107,6 +108,11 @@ title: FMI CompBio's code and supplementary data
 - **einprot**: A collection of workflows for statistical analysis of quantitative proteomics data  
   [GitHub repo](https://github.com/fmicompbio/einprot)  
 
+- **orthos**: Mechanistic insights from differential gene expression experiments with Deep Generative Networks  
+  [GitHub repo](https://github.com/fmicompbio/orthos) 
+  
+- **orthosData**: Companion package to **orthos**, providing access to data objects required for the methods therein  
+  [GitHub repo](https://github.com/fmicompbio/orthosData) 
 
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
