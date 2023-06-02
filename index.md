@@ -103,6 +103,8 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/csoneson/sketchR)  
 
 - **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/37264470/) |
+  [free full-text](https://doi.org/10.1186/s13059-023-02967-0) |
   [GitHub repo](https://github.com/fmicompbio/mutscan)  
 
 - **einprot**: A collection of workflows for statistical analysis of quantitative proteomics data  
