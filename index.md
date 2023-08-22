@@ -85,6 +85,9 @@ title: FMI CompBio's code and supplementary data
   [Bioconductor landing page](https://bioconductor.org/packages/alevinQC/) | 
   [GitHub repo](https://github.com/csoneson/alevinQC)
 
+- **galaxy2shiny2galaxy**: Combining [Galaxy](https://galaxyproject.org/) with an external Shiny server	
+  [GitHub page](https://github.com/hrhotz/galaxy2shiny2galaxy)  
+
 - **ExploreModelMatrix**: Interactive exploration of design matrices in R.  
   [Bioconductor landing page](https://bioconductor.org/packages/ExploreModelMatrix/) | 
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/32704355/) |
