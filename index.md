@@ -108,12 +108,15 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/mutscan)  
 
 - **einprot**: A collection of workflows for statistical analysis of quantitative proteomics data  
+  [Preprint](https://doi.org/10.1101/2023.07.27.550821) |
   [GitHub repo](https://github.com/fmicompbio/einprot)  
 
 - **orthos**: Mechanistic insights from differential gene expression experiments with Deep Generative Networks  
+  [Bioconductor landing page](https://bioconductor.org/packages/orthos/) |
   [GitHub repo](https://github.com/fmicompbio/orthos) 
   
 - **orthosData**: Companion package to **orthos**, providing access to data objects required for the methods therein  
+  [Bioconductor landing page](https://bioconductor.org/packages/orthosData/) |
   [GitHub repo](https://github.com/fmicompbio/orthosData) 
 
 # Supplementary information  
