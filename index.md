@@ -42,7 +42,7 @@ title: FMI CompBio's code and supplementary data
 <a href="https://github.com/fmicompbio/mutscan"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
-<a href="https://github.com/csoneson/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
 </center>
 
 - **QuasR**: Quantification and Annotation of Short reads in R  
@@ -103,7 +103,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
 - **sketchR**: An R interface for python subsampling/sketching algorithms  
-  [GitHub repo](https://github.com/csoneson/sketchR)  
+  [GitHub repo](https://github.com/fmicompbio/sketchR)  
 
 - **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/37264470/) |
