@@ -111,7 +111,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/mutscan)  
 
 - **einprot**: A collection of workflows for statistical analysis of quantitative proteomics data  
-  [Preprint](https://doi.org/10.1101/2023.07.27.550821) |
+  [free full-text](https://doi.org/10.21105/joss.05750) |
   [GitHub repo](https://github.com/fmicompbio/einprot)  
 
 - **orthos**: Mechanistic insights from differential gene expression experiments with Deep Generative Networks  
