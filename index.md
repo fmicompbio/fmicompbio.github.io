@@ -142,4 +142,4 @@ title: FMI CompBio's code and supplementary data
   [PDF](http://www.nature.com/articles/nbt.3269.pdf)  
   
 # Software build status
-... is available [here](build.html).
+... is available [here](build.html). 
