@@ -42,7 +42,7 @@ title: FMI CompBio's code and supplementary data
 <a href="https://github.com/fmicompbio/mutscan"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
-<a href="https://github.com/csoneson/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
 </center>
 
 - **QuasR**: Quantification and Annotation of Short reads in R  
@@ -103,7 +103,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
 - **sketchR**: An R interface for python subsampling/sketching algorithms  
-  [GitHub repo](https://github.com/csoneson/sketchR)  
+  [GitHub repo](https://github.com/fmicompbio/sketchR)  
 
 - **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/37264470/) |
@@ -111,7 +111,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/mutscan)  
 
 - **einprot**: A collection of workflows for statistical analysis of quantitative proteomics data  
-  [Preprint](https://doi.org/10.1101/2023.07.27.550821) |
+  [free full-text](https://doi.org/10.21105/joss.05750) |
   [GitHub repo](https://github.com/fmicompbio/einprot)  
 
 - **orthos**: Mechanistic insights from differential gene expression experiments with Deep Generative Networks  
