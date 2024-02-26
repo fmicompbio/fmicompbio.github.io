@@ -103,6 +103,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
 - **sketchR**: An R interface for python subsampling/sketching algorithms  
+  [Bioconductor landing page](https://bioconductor.org/packages/sketchR/) | 
   [GitHub repo](https://github.com/fmicompbio/sketchR)  
 
 - **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
