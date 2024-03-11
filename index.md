@@ -7,7 +7,7 @@ title: FMI CompBio's code and supplementary data
 
 - [Our homepage at FMI &nbsp; &nbsp; <img src="assets/images/logo-FMI-grey.gif" alt="FMI logo" align="middle" height="46" width="107">](http://www.fmi.ch/research/platforms/platform.html?plt=115)  
 
-- [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/stadler-michael/michael-stadler-sub)  
+- [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/michael-stadler-group)  
 
 # Teaching material
 - **SIB Advanced topics in single-cell analysis - 2022**  
@@ -103,6 +103,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/TabulaMurisSenisData)  
 
 - **sketchR**: An R interface for python subsampling/sketching algorithms  
+  [Bioconductor landing page](https://bioconductor.org/packages/sketchR/) | 
   [GitHub repo](https://github.com/fmicompbio/sketchR)  
 
 - **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
