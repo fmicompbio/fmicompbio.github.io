@@ -123,6 +123,10 @@ title: FMI CompBio's code and supplementary data
   [Bioconductor landing page](https://bioconductor.org/packages/orthosData/) |
   [GitHub repo](https://github.com/fmicompbio/orthosData) 
 
+- **ez-zarr**: Python package providing easy, high-level access to OME-Zarr filesets  
+  [PyPI landing page](https://pypi.org/project/ez-zarr/) |
+  [GitHub repo](https://github.com/fmicompbio/ez_zarr) 
+
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
   [supplementary data and R code](projects/cosie/cosie.html) |
