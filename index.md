@@ -126,6 +126,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/orthosData) 
 
 - **ez-zarr**: Python package providing easy, high-level access to OME-Zarr filesets  
+  [free full-text](https://doi.org/10.21105/joss.07882) |
   [PyPI landing page](https://pypi.org/project/ez-zarr/) |
   [GitHub repo](https://github.com/fmicompbio/ez_zarr) |
   [ezzarr (R wrapper) GitHub repo](https://github.com/fmicompbio/ezzarr)
