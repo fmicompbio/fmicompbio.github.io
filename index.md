@@ -39,6 +39,7 @@ title: FMI CompBio's code and supplementary data
 <a href="http://bioconductor.org/packages/eisaR/"><img src="assets/images/eisaR.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/ExploreModelMatrix/"><img src="assets/images/ExploreModelMatrix.png" style="width:3cm" /></a>
 <a href="https://pypi.org/project/ez-zarr/"><img src="assets/images/ez_zarr.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/footprintR"><img src="assets/images/footprintR.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/monaLisa/"><img src="assets/images/monaLisa.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/mutscan"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
@@ -125,9 +126,13 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/orthosData) 
 
 - **ez-zarr**: Python package providing easy, high-level access to OME-Zarr filesets  
+  [free full-text](https://doi.org/10.21105/joss.07882) |
   [PyPI landing page](https://pypi.org/project/ez-zarr/) |
   [GitHub repo](https://github.com/fmicompbio/ez_zarr) |
   [ezzarr (R wrapper) GitHub repo](https://github.com/fmicompbio/ezzarr)
+
+- **footprintR**: Tools for working with single-molecule footprinting data in R  
+  [GitHub repo](https://github.com/fmicompbio/footprintR)  
 
 # Supplementary information  
 - **COSIE**: COrrected Splicing Indices for Exon arrays  
