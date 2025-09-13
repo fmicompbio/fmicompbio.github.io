@@ -41,7 +41,7 @@ title: FMI CompBio's code and supplementary data
 <a href="https://pypi.org/project/ez-zarr/"><img src="assets/images/ez_zarr.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/footprintR"><img src="assets/images/footprintR.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/monaLisa/"><img src="assets/images/monaLisa.png" style="width:3cm" /></a>
-<a href="https://github.com/fmicompbio/mutscan"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
+<a href="http://bioconductor.org/packages/mutscan/"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
@@ -109,6 +109,7 @@ title: FMI CompBio's code and supplementary data
   [GitHub repo](https://github.com/fmicompbio/sketchR)  
 
 - **mutscan**: An R package for processing, statistical analysis and visualization of Multiplexed Assays of Variant Effect data    
+  [Bioconductor landing page](https://bioconductor.org/packages/mutscan/) | 
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/37264470/) |
   [free full-text](https://doi.org/10.1186/s13059-023-02967-0) |
   [GitHub repo](https://github.com/fmicompbio/mutscan)  
