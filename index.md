@@ -44,6 +44,7 @@ title: FMI CompBio's code and supplementary data
 <a href="http://bioconductor.org/packages/mutscan/"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/SingleMoleculeGenomicsIO"><img src="assets/images/SingleMoleculeGenomicsIO.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
 </center>
 
@@ -131,6 +132,9 @@ title: FMI CompBio's code and supplementary data
   [PyPI landing page](https://pypi.org/project/ez-zarr/) |
   [GitHub repo](https://github.com/fmicompbio/ez_zarr) |
   [ezzarr (R wrapper) GitHub repo](https://github.com/fmicompbio/ezzarr)
+
+- **SingleMoleculeGenomicsIO**: Tools for reading of single-molecule genomics data from different file formats in R  
+  [GitHub repo](https://github.com/fmicompbio/SingleMoleculeGenomicsIO)  
 
 - **footprintR**: Tools for working with single-molecule footprinting data in R  
   [GitHub repo](https://github.com/fmicompbio/footprintR)  
