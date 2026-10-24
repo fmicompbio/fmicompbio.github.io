@@ -5,7 +5,7 @@ title: FMI CompBio's code and supplementary data
 
 # About us: 
 
-- [Our homepage at FMI &nbsp; &nbsp; <img src="assets/images/logo-FMI-grey.gif" alt="FMI logo" align="middle" height="46" width="107">](http://www.fmi.ch/research/platforms/platform.html?plt=115)  
+- [Our homepage at FMI &nbsp; &nbsp; <img src="assets/images/FMI_logo_extended_purple_cropped.png" alt="FMI logo" align="middle" height="53" width="140">](https://www.fmi.ch/platforms/platform.html?plt=115)  
 
 - [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/michael-stadler-group)  
 
@@ -44,6 +44,7 @@ title: FMI CompBio's code and supplementary data
 <a href="http://bioconductor.org/packages/mutscan/"><img src="assets/images/mutscan.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/orthos"><img src="assets/images/orthos.png" style="width:3cm" /></a>
 <a href="http://bioconductor.org/packages/QuasR/"><img src="assets/images/QuasR.png" style="width:3cm" /></a>
+<a href="https://github.com/fmicompbio/SingleMoleculeGenomicsIO"><img src="assets/images/SingleMoleculeGenomicsIO.png" style="width:3cm" /></a>
 <a href="https://github.com/fmicompbio/sketchR"><img src="assets/images/sketchR.png" style="width:3cm" /></a>
 </center>
 
@@ -131,6 +132,9 @@ title: FMI CompBio's code and supplementary data
   [PyPI landing page](https://pypi.org/project/ez-zarr/) |
   [GitHub repo](https://github.com/fmicompbio/ez_zarr) |
   [ezzarr (R wrapper) GitHub repo](https://github.com/fmicompbio/ezzarr)
+
+- **SingleMoleculeGenomicsIO**: Tools for reading of single-molecule genomics data from different file formats in R  
+  [GitHub repo](https://github.com/fmicompbio/SingleMoleculeGenomicsIO)  
 
 - **footprintR**: Tools for working with single-molecule footprinting data in R  
   [GitHub repo](https://github.com/fmicompbio/footprintR)  
