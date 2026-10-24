@@ -5,7 +5,7 @@ title: FMI CompBio's code and supplementary data
 
 # About us: 
 
-- [Our homepage at FMI &nbsp; &nbsp; <img src="assets/images/logo-FMI-grey.gif" alt="FMI logo" align="middle" height="46" width="107">](https://www.fmi.ch/platforms/platform.html?plt=115)  
+- [Our homepage at FMI &nbsp; &nbsp; <img src="assets/images/FMI_logo_extended_purple_cropped.png" alt="FMI logo" align="middle" height="53" width="140">](https://www.fmi.ch/platforms/platform.html?plt=115)  
 
 - [Our group page at SIB &nbsp; &nbsp; <img src="assets/images/sib_emblem_low_res.jpg" alt="SIB logo" align="middle" height="53" width="69">](https://www.sib.swiss/michael-stadler-group)  
 
